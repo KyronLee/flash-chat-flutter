@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "612652370937",
+    "project_id": "flash-chat-815aa",
+    "storage_bucket": "flash-chat-815aa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:612652370937:android:00901b77297cbabc35cb28",
+        "android_client_info": {
+          "package_name": "com.kyronlee.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "612652370937-c8k1hnc0r2s6jmsj29dluq2e44i2p2fb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBclTI0eEdq0q5G3oaOSyS21Eiv7ogd-7c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "612652370937-c8k1hnc0r2s6jmsj29dluq2e44i2p2fb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
